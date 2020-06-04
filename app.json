@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Covid-19 India",
+    "slug": "covid-19-india",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "This is a minimal covid-19 app this has potential to replace Aarogya setu app, it doesnot require your bluetoohn and location service on for 24 hours"
+  }
+}
